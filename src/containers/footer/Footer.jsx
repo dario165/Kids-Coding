@@ -20,7 +20,7 @@ const Footer = () => (
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
         <p>Overons</p>
-        <p>Social Media</p>
+        <p>Social Mediaa</p>
         <p>Counters</p>
         <p>Contact</p>
       </div>
