@@ -15,8 +15,7 @@ const Blog = () => (
       <div className="gpt3__blog-container_groupB">
         <Article imgUrl={blog02} date="Sep 26, 2021" text="Workplace skills: problem solving, working in a team." />
         <Article imgUrl={blog03} date="Sep 26, 2021" text="Build social skills and collaboration with other kids" />
-        <Article imgUrl={blog04} date="Sep 26, 2021" text="Workplace skills: problem solving, working in a team." />
-        <Article imgUrl={blog05} date="Sep 26, 2021" text="Build social skills and collaboration with other kids" />
+
       </div>
       
    
